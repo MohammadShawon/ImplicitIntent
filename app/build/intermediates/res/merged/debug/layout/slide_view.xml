@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    >
+
+    <Button
+        android:id="@+id/prevButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Prev"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        />
+    <Button
+        android:id="@+id/nextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Next"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/prevButton"
+        android:layout_centerHorizontal="true">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/headTextView"
+            android:text="Heading"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_margin="@dimen/activity_vertical_margin"
+            android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
+            />
+
+        <ImageView
+            android:id="@+id/titleImageView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/text"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="This is Description list of view.This is Description list of view.This is Description list of view.This is Description list of view.This is Description list of view.This is Description list of view.This is Description list of view.This is Description list of view.This is Description list of view.This is Description list of view.This is Description list of view.This is Description list of view.This is Description list of view.This is Description list of view.This is Description list of view.This is Description list of view.This is Description list of view.This is Description list of view.This is Description list of view."
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:id="@+id/descriptionTextView"
+            android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
+            android:layout_marginBottom="10dp"
+            />
+
+
+    </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

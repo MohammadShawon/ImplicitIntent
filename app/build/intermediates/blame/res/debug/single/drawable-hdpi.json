@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/media/codemagic/Core/TopUpAndroid/ImplicitIntent1/app/build/intermediates/res/merged/debug/drawable-hdpi/implicitintennt_background.png",
+        "source": "/media/codemagic/Core/TopUpAndroid/ImplicitIntent1/app/src/main/res/drawable-hdpi/implicitintennt_background.png"
+    },
+    {
+        "merged": "/media/codemagic/Core/TopUpAndroid/ImplicitIntent/app/build/intermediates/res/merged/debug/drawable-hdpi/phoneicon.png",
+        "source": "/media/codemagic/Core/TopUpAndroid/ImplicitIntent/app/src/main/res/drawable-hdpi/phoneicon.png"
+    },
+    {
+        "merged": "/media/codemagic/Core/TopUpAndroid/ImplicitIntent/app/build/intermediates/res/merged/debug/drawable-hdpi/implicitintennt_background.png",
+        "source": "/media/codemagic/Core/TopUpAndroid/ImplicitIntent/app/src/main/res/drawable-hdpi/implicitintennt_background.png"
+    },
+    {
+        "merged": "/media/codemagic/Core/TopUpAndroid/ImplicitIntent1/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/media/codemagic/Core/TopUpAndroid/ImplicitIntent1/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/codemagic/Core/TopUpAndroid/ImplicitIntent1/app/build/intermediates/res/merged/debug/drawable-hdpi/phoneicon.png",
+        "source": "/media/codemagic/Core/TopUpAndroid/ImplicitIntent1/app/src/main/res/drawable-hdpi/phoneicon.png"
+    },
+    {
+        "merged": "/media/codemagic/Core/TopUpAndroid/ImplicitIntent/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/media/codemagic/Core/TopUpAndroid/ImplicitIntent/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\android_workspace\ImplicitIntent1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_85537dbd897a6a574f66f6c8c42ab7622d564724\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_workspace\ImplicitIntent1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="988e76f2872710bcb0c6793d9b44d595ef80fc11">
+        <dex dex="D:\android_workspace\ImplicitIntent1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3d7ecf72cb03f2beebd2da5026dcb47260b3fb66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_workspace\ImplicitIntent1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="24b678f3fc472e884277e3a93b2df2da3421c813">
+        <dex dex="D:\android_workspace\ImplicitIntent1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e7b16d81a1f12aa932dbcebc5af80964bbd2dc29\classes.dex" />
+    </item>
+
+</items>
